@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Signing files
+*.jks
+*.keystore
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Mac OS
+.DS_Store
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Log/Cache
+*.log
+.cxx/
+.externalNativeBuild/
+
+# Google Services
+google-services.json
+
+# Node / other junk
+node_modules/
+
+# Backup
+*.bak
+*.swp
+
+# Kotlin specific
+*.kotlin_module
